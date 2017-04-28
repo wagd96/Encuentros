@@ -1,0 +1,62 @@
+create database empresa;
+
+use empresa;
+
+create table cliente(
+cedula int,
+nombre varchar(40),
+telefono varchar(15),
+direccion varchar(39),
+email varchar(40),
+primary key (cedula));
+
+//drop table cliente;
+
+create table producto(
+codigo varchar(10),
+nombre varchar(40),
+precio double,
+primary key (codigo));
+
+describe producto;
+
+create table tienda(
+id int auto_increment,
+direccion varchar(30),
+ciudad varchar(15),
+telefono varchar(10),
+primary key (id));
+
+describe tienda;
+
+create table empleado(
+cedula int,
+nombre varchar(30),
+platica double,
+tienda int,
+cargo varchar(30),
+primary key(cedula),
+foreign key(tienda) references tienda (id)
+);
+
+create table venta(
+id int auto_increment,
+fecha timestamp,
+sucursal int,
+cliente int,
+primary key(id),
+foreign key(sucursal) references tienda(id),
+foreign key(cliente) references cliente(cedula) );
+
+create table producto_en_venta(
+factura int,
+producto varchar(10),
+cantidad long,
+primary key(factura,producto),
+foreign key(producto) references producto(codigo),
+foreign key(factura) references venta(id));
+
+
+insert into producto values("k788","Trumps",1000);
+insert into producto values("asd","Cerveza",3500);
+insert into producto values("k778","Amor",50000);
