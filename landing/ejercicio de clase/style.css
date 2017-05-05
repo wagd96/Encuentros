@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister|Montserrat');
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/*fuentes*/
+
+.fuente-principal {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+
+/*colores*/
+
+.color-primary {
+    color: #9C27B0;
+}
+
+.back-color-primary {
+    background-color: #9C27B0;
+}
+
+.color-light {
+    color: #CE93D8;
+}
+
+.color-dark {
+    color: #6A1B9A;
+}
+
+.back-color-dark {
+    background-color: #6A1B9A;
+}
+
+.color-accent {
+    color: #2979FF;
+}
+/*navbar*/
+nav{
+  background: transparent;
+  position: absolute;
+  box-shadow: none;
+  padding: 0 2em;
+}
+
+/*home*/
+
+header {
+    width: 100%;
+    height: 100vh;
+    background: #9C27B0;
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, #6A1B9A, #9C27B0);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(left, #6A1B9A, #9C27B0);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(left, #6A1B9A, #9C27B0);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(left, #6A1B9A, #9C27B0);
+    /* Standard syntax */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+/* sobre mi */
+.foto{
+  padding: 1em 1em 3em 1em !important;
+  box-shadow: 2px 2px 4px 2px grey;
+  transform: rotate(-2deg);
+}
+
+.no-margin{
+  margin:0 !important;
+}
+
+.text-bold{
+  font-weight: bold;
+}
+
+.seccion{
+  padding: 3em 2em;
+}
