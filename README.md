@@ -26,6 +26,9 @@ Puedes encontrar mas información en nuestro grupo de [Facebook][face]
 - [x] Deseos de aprender :books: :video_game: :smile:
 - [ ] Asistir a los talleres :clock4:
 
+## Código de conducta
+Queremos que te sientas bien en este espacio, para eso contamos con un [código de conducta](https://github.com/CodexUdeA/Talleres/blob/master/CODIGO_DE_CONDUCTA.md), si tienes algo que decirnos, no dudes en [contactarnos](#organizadores-boy-woman)
+
 En este repositorio podrás encontrar el código fuente de los talleres realizados :punch:
 
 [face]:https://www.facebook.com/groups/udeakodexx/
