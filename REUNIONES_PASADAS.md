@@ -19,3 +19,5 @@
 |10/05/2018      |`Hiking with scala` (Scala)| Santiago Cadavid |
 |31/05/2018      |`Desarrollo de Apps moviles nativas con React` (React)| [Andres Pino](https://github.com/andrespinov) |
 |31/05/2018      |`Despliegue continuo con Circle CI` (DevOps/Git/CircleCI) | [Camila Gomez](https://github.com/camigomez35) |
+|02/08/2018      |`Clean Code: Como mantener tu código mas limpio que tu habitación` | [Daniel Correa](https://github.com/danielcb29) |
+|02/08/2018      |`JSConf EU Experience + Design Mistakes in NodeJS` | [Manuela Castrillón](https://github.com/manucastrillonm) |
