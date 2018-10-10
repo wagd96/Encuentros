@@ -41,10 +41,9 @@ Separa el espacio en tu agenda! en el semestre 2018-2 nos reuniremos los días:
 - 2 de agosto
 - 23 de agosto
 - 13 de septiembre
-- 4 de octubre
-- 25 de octubre
-- 15 de noviembre
-- 6 de diciembre
+- 11 de octubre
+- 1 de noviembre
+- 22 de noviembre
 
 En nuestro grupo de [Facebook][face] anunciaremos los detalles 😉
 
