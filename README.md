@@ -18,7 +18,7 @@ Puedes encontrar mas información en nuestro grupo de [Facebook][face]
 
 ## Organizadores :boy: :woman:
 
-| [<img src="https://avatars2.githubusercontent.com/u/10585946?s=460&v=4" width="150px"></br><sub>Manu Castrillón</sub>](https://github.com/ManuCastrillonM) | [<img src="https://avatars2.githubusercontent.com/u/10585976?s=460&v=4" width="150px"></br><sub>Martin Quintero</sub>](https://github.com/martineliasq) | [<img src="https://avatars2.githubusercontent.com/u/18253264?s=460&v=4" width="150px"></br><sub>Andrés Moreno</sub>](https://github.com/andres-morenog) | [<img src="https://avatars1.githubusercontent.com/u/19578435?s=460&v=4" width="150px"></br><sub>Angélica Arroyave</sub>](https://github.com/am9805) |
+| [<img src="https://avatars2.githubusercontent.com/u/10585946?s=460&v=4" width="150px"></br><sub>Manu Castrillón</sub>](https://github.com/ManuCastrillonM) | [<img src="https://avatars2.githubusercontent.com/u/10585976?s=460&v=4" width="150px"></br><sub>Martin Quintero</sub>](https://github.com/martineliasq) | [<img src="https://avatars1.githubusercontent.com/u/19578435?s=460&v=4" width="150px"></br><sub>Angélica Arroyave</sub>](https://github.com/am9805) |
 |---|---|---|---|
 
 ## Requisitos
