@@ -26,4 +26,4 @@
 |13/09/2018      |`Testing en javascript` | [Romel Perez](https://github.com/romelperez) |
 |11/10/2018      |`Web basics: técnicas y estrategias para optimizar una página web` | [Mateo Calle](https://github.com/Mathius17) |
 |11/10/2018      |`Una mirada vulgar a HTTPS` | [Martin Quintero](https://github.com/MartinEliasQ) |
-
+|19/10/2018      |`Creando nuestro primer proyecto OS`| [Angelica Arroyave](https://github.com/am9805),[Martin Quintero](https://github.com/MartinEliasQ),[Manuela Castrillon](https://github.com/ManuCastrillonM) |
