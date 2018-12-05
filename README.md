@@ -39,7 +39,7 @@ En nuestro grupo de [Facebook][face] anunciaremos los detalles 😉
 
 ## Código de conducta
 
-Queremos que te sientas bien en este espacio, para eso contamos con un [código de conducta](https://github.com/CodexUdeA/Talleres/blob/master/CODIGO_DE_CONDUCTA.md), si tienes algo que decirnos, no dudes en [contactarnos](#organizadores-boy-woman)
+Queremos que te sientas bien en este espacio, para eso contamos con un [código de conducta](https://github.com/CodexUdeA/codigo-de-conducta), si tienes algo que decirnos, no dudes en [contactarnos](#organizadores-boy-woman)
 
 En este repositorio podrás encontrar el código fuente de los talleres realizados :punch:
 
