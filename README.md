@@ -2,7 +2,7 @@
 
 ## Bienvenidx ! :clap: :bowtie:
 
-Somos **Codex Udea**, una comunidad enfocada al **desarrollo de software** en la cual a través a través de **talleres y charlas** compartimos conocimiento en diversos lenguajes de programación y plataformas tecnológicas.
+Somos **Codex Udea**, una comunidad enfocada al **desarrollo de software** en la cual a través de **talleres y charlas** compartimos conocimiento en diversos lenguajes de programación y plataformas tecnológicas.
 
 ## Metodología
 
