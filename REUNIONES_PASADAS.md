@@ -27,3 +27,6 @@
 |11/10/2018      |`Web basics: técnicas y estrategias para optimizar una página web` | [Mateo Calle](https://github.com/Mathius17) |
 |11/10/2018      |`Una mirada vulgar a HTTPS` | [Martin Quintero](https://github.com/MartinEliasQ) |
 |19/10/2018      |`Creando nuestro primer proyecto OS`| [Angelica Arroyave](https://github.com/am9805),[Martin Quintero](https://github.com/MartinEliasQ),[Manuela Castrillon](https://github.com/ManuCastrillonM) |
+|14/02/2019      |`Teoria del color para devs` | [León Darío Arango Amaya](https://github.com/breakermoob) |
+|07/03/2019      |`Animación para la web con CSS y TweenMax` | [Victor Arias] (https://github.com/viktorarias) |
+|07/03/2019      |`¿Cómo preparar una cena con Jenkis y Docker?` | [Johan Ospina] (https://github.com/joh95) |
